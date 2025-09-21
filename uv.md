@@ -1,3 +1,8 @@
+---
+layout: default
+title: ページのタイトル
+---
+
 # uv（Pythonパッケージマネージャ）チートシート
 
 最速のPythonパッケージマネージャ「uv」（by Astral）のよく使うコマンドまとめ。
